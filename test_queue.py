@@ -1,5 +1,5 @@
 import unittest
-from Queue import Queue  # Убедитесь, что QueueClass.py находится в одной директории с этим файлом
+from Queue import Queue
 
 
 class TestQueue(unittest.TestCase):
